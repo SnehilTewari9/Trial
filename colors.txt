@@ -1,2 +1,3 @@
 There are seven colors in a rainbow and they are as follows - 
 violet, indigo, blue, green, yellow, orange, red
+Popular mnemonic - VIBGTOR
