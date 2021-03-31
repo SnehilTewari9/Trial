@@ -3,4 +3,6 @@ violet, indigo, blue, green, yellow, orange, red
 Popular mnemonic - VIBGTOR
 
 Violet has maximum energy and Red has the least energy.
-Violet has the least wavelength and Red has the maximum wavelenght. 
+Violet has the least wavelength and Red has the maximum wavelength. 
+
+Red is used in traffic lights for the stop signal.
